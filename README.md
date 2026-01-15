@@ -2,23 +2,23 @@
 
 ## 📌 Project Overview
 
-This project analyzes healthcare staffing demand to support workforce planning and operational decision-making. Using historical and operational data, the analysis identifies trends in demand, peak periods, and staffing gaps to help healthcare organizations allocate resources more effectively.
+* Motivation: The United States has an influenza season, during which more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop severe complications and end up in the hospital. Hospitals and clinics need additional staff to treat these extra patients adequately. The medical staffing agency provides temporary staff. 
+* Scope: The agency covers all hospitals in each of the 50 states of the United States, and the project will plan for the upcoming influenza season. 
 
 ## 🎯 Business Objectives
 
 * Analyze staffing demand trends over time
 * Identify peak demand periods and potential understaffing risks
-* Support data-driven workforce planning and scheduling decisions
+* Support data-driven workforce planning and scheduling decisions according with the most vulnerable population
 * Provide clear insights for operational and administrative stakeholders
 
 ## 🗂️ Data Source
 
-* Healthcare staffing and operational datasets
-* Includes variables such as staffing levels, dates/times, departments, and service demand indicators
-
+* CDC - The Influenza deaths by geography data is based on death certificates for U.S. residents and includes 10-year age groups. The cause of Death database contains mortality, and population counts for all U.S. counties from 2009 to 2017. 
+* US Census Bureau. contains the total number of people living in each State and town from 2009 to 2017, including population demographics such as age and gender.
+  
 ## 🛠️ Tools & Technologies
 
-* **Python** (Pandas, NumPy)
 * **Excel** (advanced analysis and reporting)
 * **Tableau** (data visualization and dashboards)
 * Descriptive statistics and trend analysis
@@ -29,12 +29,12 @@ This project analyzes healthcare staffing demand to support workforce planning a
 2. Data cleaning and validation
 3. Time-based analysis of staffing demand
 4. Identification of peak periods and variability
-5. Visualization of demand trends and staffing patterns
+5. Visualization of demand trends
 6. Interpretation of findings for operational planning
 
-## 📊 Key Insights (Examples)
+## 📊 Key Insights 
 
-* Staffing demand shows clear seasonal and temporal patterns
+* Staffing demand shows clear needs for the olderly population
 * Certain periods require higher staffing coverage to maintain service levels
 * Data-driven scheduling can reduce understaffing risks
 
@@ -44,7 +44,6 @@ This project analyzes healthcare staffing demand to support workforce planning a
 * Peak demand periods by department or service area
 * Comparative views of staffing levels vs. demand
 
-*(Visuals are saved in the `/visuals` folder.)*
 
 ## 📁 Repository Structure
 
@@ -59,8 +58,13 @@ healthcare-staffing-demand-analysis/
 
 ## 🚀 Next Steps
 
-* Incorporate forecasting techniques for future demand
-* Expand analysis by department or location
+●	Categorize the vulnerable population by size and age. 
+●	Categorize each state based on its vulnerable population count.
+●	Perform statistical tests to detect potential gender-specific biases or trends within different age groups.
+●	Develop visualizations to identify peaks and illustrate influenza spread across different regions over time. 
+●	Identify vaccination policies and care capacity per region.
+●	Create and deliver a focused presentation to communicate the results effectively and actionable insights to the stakeholders. 
+
 
 ## 👩‍💻 Author
 
