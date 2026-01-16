@@ -58,13 +58,15 @@ healthcare-staffing-demand-analysis/
 
 ## 🚀 Next Steps
 
-●	Categorize the vulnerable population by size and age. 
-●	Categorize each state based on its vulnerable population count.
-●	Perform statistical tests to detect potential gender-specific biases or trends within different age groups.
-●	Develop visualizations to identify peaks and illustrate influenza spread across different regions over time. 
-●	Identify vaccination policies and care capacity per region.
-●	Create and deliver a focused presentation to communicate the results effectively and actionable insights to the stakeholders. 
-
+* Categorize each state based on its vulnerable population count. (High, medium, and low)
+* Deploy medical staff early in high-risk states, particularly from October to February
+* Expand the vulnerable population to include all individuals 65+, not just 85+
+* Train your staff to work with high-risk elderly people
+* Expand Data sources, including hospital admissions and emergency visits records, to enhance decision making
+* Refine future responses by analyzing the most recent data (2013 - 2017) and running predictive modeling
+* Continue monitoring flu activity and adjust staffing levels in real time (CDC)
+* Identify vaccination policies and care capacity per region
+* Coordinate with local healthcare facilities to validate staffing needs and confirm capacity constraints
 
 ## 👩‍💻 Author
 
