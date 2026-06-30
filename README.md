@@ -63,5 +63,5 @@ healthcare-staffing-demand-analysis/
 
 ## 👩‍💻 Author
 Mary Kane  https://github.com/mkane00
-Data Analyst | Healthcare & Operations Background  
-Bilingual: English / Spanish
+
+Data Analyst | Healthcare & Operations Background | Bilingual: English / Spanish
